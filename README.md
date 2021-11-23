@@ -10,3 +10,6 @@ Syntax Example - python3 network_scanner --target 192.168.11.0/24
 
 Can or either -t for --target 
 
+Only approved penetration testing and/or educational purposes should be performed with this script.
+Any misuse of this program will not be the author's or any other collaborator's liability.
+Use it on your own networks and/or with the consent of the network owner. 
